@@ -27,5 +27,22 @@ This repository contains foundational machine learning projects and code example
 
 ---
 
-## 📂 Folder Structure
+---
+
+## 📈 Sample Results
+
+- Visualizations of decision boundaries  
+- Metrics comparison between models  
+- Clean, commented notebooks for easy learning and modification
+
+---
+
+## 🚀 Getting Started
+
+To run the notebooks locally:
+
+1. Clone this repository  
+```bash
+git clone https://github.com/FaladeF311/Machine-Learning-Basic.git
+
 
